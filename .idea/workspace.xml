@@ -2,777 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6732fa99-07d3-4918-97fa-717c54c09757" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_ignore/struct.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/front.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.ser" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty-translation.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/encoding.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/plurals.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/en.res" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/fr.res" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/resources.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/res/en.res" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/call.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/controllers/drivers/tracking.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/controllers/users/access.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/front.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/libs/Auth-api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/libs/Auth-front.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/libs/DB.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/libs/helpers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/query-exec.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/autoload_psr4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/autoload_static.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/composer/installed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/PSR2Tabs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/codesniffer" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/src/Engine.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/src/Ruleset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/src/Validator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/src/languages/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/src/languages/es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/tests/EngineTests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/tests/Rulesets/Sample.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/vendor/werx/validation/tests/ValidatorTests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/AuthController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/HomeController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/RoomController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/UserController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/Task.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/auth/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layout/master.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/partial/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/partial/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/task/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/task/history.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/task/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/task/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/Auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/DB.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/DB___.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/PerfactModel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/Router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/Validator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/classes/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/config/error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/config/site.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/drow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/handle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/helper/system.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/struct.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/tests/Doctrine/Tests/Common/Inflector/InflectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/tests/Doctrine/Tests/DoctrineTestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/doctrine/inflector/tests/Doctrine/Tests/TestInit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Exception/ErrorException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Exception/Formatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Exception/Frame.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Exception/FrameCollection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Exception/Inspector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/CallbackHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/Handler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/HandlerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/JsonResponseHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Handler/XmlResponseHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/css/whoops.base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/js/clipboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/js/whoops.base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/js/zepto.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/views/frame_code.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/views/frame_list.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/views/header.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Run.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/RunInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Util/HtmlDumperOutput.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Util/Misc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Util/SystemFacade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/container/Container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/container/ContextualBindingBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/container/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/Access/Authorizable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/Access/Gate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/Authenticatable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/CanResetPassword.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/Guard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/PasswordBroker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/PasswordBrokerFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/Registrar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/StatefulGuard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/SupportsBasicAuth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Auth/UserProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Broadcasting/Broadcaster.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Broadcasting/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Broadcasting/ShouldBroadcast.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Broadcasting/ShouldBroadcastNow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Bus/Dispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Bus/QueueingDispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Bus/SelfHandling.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Cache/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Cache/Repository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Cache/Store.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Config/Repository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Console/Application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Console/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Container/BindingResolutionException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Container/Container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Container/ContextualBindingBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Cookie/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Cookie/QueueingFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Database/ModelIdentifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Debug/ExceptionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Encryption/DecryptException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Encryption/EncryptException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Encryption/Encrypter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Events/Dispatcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Filesystem/Cloud.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Filesystem/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Filesystem/FileNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Filesystem/Filesystem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Foundation/Application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Hashing/Hasher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Http/Kernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Logging/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Mail/MailQueue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Mail/Mailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Pagination/LengthAwarePaginator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Pagination/Paginator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Pagination/Presenter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Pipeline/Hub.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Pipeline/Pipeline.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/EntityNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/EntityResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/Job.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/Monitor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/Queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/QueueableEntity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Queue/ShouldQueue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Redis/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Routing/Registrar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Routing/ResponseFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Routing/UrlGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Routing/UrlRoutable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Support/Arrayable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Support/Htmlable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Support/Jsonable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Support/MessageBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Support/MessageProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Support/Renderable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Validation/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Validation/UnauthorizedException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Validation/ValidatesWhenResolved.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Validation/ValidationException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/Validation/Validator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/View/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/View/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/contracts/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Capsule/Manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/ConnectionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/ConnectionResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/ConnectionResolverInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/ConnectionFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/Connector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/ConnectorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/MySqlConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/PostgresConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/SQLiteConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Connectors/SqlServerConnector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/BaseCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/InstallCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/MigrateCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/MigrateMakeCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/RefreshCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/ResetCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/RollbackCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Migrations/StatusCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Seeds/SeedCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Seeds/SeederMakeCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Console/Seeds/stubs/seeder.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/DatabaseManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/DatabaseServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/DetectsLostConnections.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Factory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/FactoryBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/MassAssignmentException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/ModelNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/QueueEntityResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/BelongsTo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/BelongsToMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasManyThrough.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasOne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/HasOneOrMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphOne.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphOneOrMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphPivot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphTo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/MorphToMany.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/Pivot.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Relations/Relation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Scope.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/ScopeInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/SoftDeletes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Eloquent/SoftDeletingScope.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/ConnectionEvent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/QueryExecuted.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/TransactionBeginning.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/TransactionCommitted.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Events/TransactionRolledBack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Grammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/MigrationServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/DatabaseMigrationRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/Migration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/MigrationCreator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/MigrationRepositoryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/Migrator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/stubs/blank.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/stubs/create.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Migrations/stubs/update.stub" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/MySqlConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/PostgresConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Expression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/Grammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/MySqlGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/PostgresGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/SQLiteGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Grammars/SqlServerGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/JoinClause.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/MySqlProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/PostgresProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/Processor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/SQLiteProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Query/Processors/SqlServerProcessor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/QueryException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/SQLiteConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Blueprint.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/Grammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/MySqlGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/PostgresGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/SQLiteGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/Grammars/SqlServerGrammar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Schema/MySqlBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/SeedServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/Seeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/SqlServerConnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/database/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/AggregateServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Arr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Collection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Composer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Debug/Dumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Debug/HtmlDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/App.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Bus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Cookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Crypt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/DB.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Event.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Facade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Gate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Hash.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Input.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Password.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Redirect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Redis.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Schema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Storage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/URL.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/Validator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Facades/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Fluent.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/HtmlString.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/MessageBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/NamespacedItemResolver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Pluralizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/ServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Str.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Traits/CapsuleManagerTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/Traits/Macroable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/ViewErrorBag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/illuminate/support/helpers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/af.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/cs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/da.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/el.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/eu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/he.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pt_BR.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sq.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/th.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/uz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh-TW.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/zh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/ERRATA.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/SECURITY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey.asc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/byte_safe_strings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/cast_to_int.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/error_polyfill.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random_bytes_com_dotnet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random_bytes_dev_urandom.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random_bytes_libsodium.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random_bytes_libsodium_legacy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random_bytes_mcrypt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random_bytes_openssl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/lib/random_int.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/other/build_phar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.scrutinizer.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Callback_function_notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/DomainKeys_notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Note_for_SMTP_debugging.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/extending.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/generatedocs.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/pop3_article.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-br.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-dk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-no.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-se.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/fakepopserver.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/fakesendmail.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerLangTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/runfakepopserver.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/test_callback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/testbootstrap-dist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/travis.phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Mbstring.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.ser" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/AbstractOperation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/MergeOperation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/OperationInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Catalogue/TargetOperation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DataCollector/TranslationDataCollector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/DataCollectorTranslator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/CsvFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/DumperInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/FileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/IcuResFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/IniFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/JsonFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/MoFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/PhpFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/PoFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/QtFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/XliffFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Dumper/YamlFileDumper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/ExceptionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/InvalidResourceException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Exception/NotFoundResourceException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/AbstractFileExtractor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/ChainExtractor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Extractor/ExtractorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/IdentityTranslator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Interval.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/ArrayLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/CsvFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/FileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/IcuDatFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/IcuResFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/IniFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/JsonFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/LoaderInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/MoFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/PhpFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/PoFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/QtFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/XliffFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/YamlFileLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/schema/dic/xliff-core/xliff-core-1.2-strict.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/schema/dic/xliff-core/xliff-core-2.0.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Loader/schema/dic/xliff-core/xml.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/LoggingTranslator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogueInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageSelector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MetadataAwareInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/PluralizationRules.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Catalogue/AbstractOperationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Catalogue/MergeOperationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Catalogue/TargetOperationTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/DataCollector/TranslationDataCollectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/DataCollectorTranslatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/CsvFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/FileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/IcuResFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/IniFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/JsonFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/MoFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/PhpFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/PoFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/QtFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/XliffFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Dumper/YamlFileDumperTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/IdentityTranslatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/IntervalTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/CsvFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/IcuDatFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/IcuResFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/IniFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/JsonFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/LocalizedTestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/MoFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/PhpFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/PoFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/QtFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/XliffFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Loader/YamlFileLoaderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/LoggingTranslatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/MessageCatalogueTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/MessageSelectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/PluralizationRulesTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorCacheTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/TranslatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Util/ArrayConverterTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/Writer/TranslationWriterTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty-translation.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/empty.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/escaped-id-plurals.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/escaped-id.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/fuzzy-translations.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/invalid-xml-resources.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/malformed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/messages.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/messages_linear.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/non-valid.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/non-valid.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/plurals.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resname.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/corrupted/resources.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/en.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/fr.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resourcebundle/dat/packagelist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-2.0-clean.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-2.0.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-clean.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-target-attributes.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources-tool-info.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.dump.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/resources.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/valid.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/with-attributes.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/withdoctype.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/fixtures/withnote.xlf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Translator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/TranslatorBagInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/TranslatorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Util/ArrayConverter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Writer/TranslationWriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/symfony/translation/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/ar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/az.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/de.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/el.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/fi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/fr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/id.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/it.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/ja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/lv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/nl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/pl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/pt-br.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/ro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/ru.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/th.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/tr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/uk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/vi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/zh-cn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/lang/zh-tw.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/src/Valitron/Validator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/tests/Valitron/BaseTestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/tests/Valitron/ErrorMessages.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/tests/Valitron/LangTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/tests/Valitron/StaticVsInstanceTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/tests/Valitron/ValidateTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/vlucas/valitron/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/PSR2Tabs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/codesniffer" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/src/Engine.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/src/Ruleset.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/src/Validator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/src/languages/en.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/src/languages/es.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/tests/EngineTests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/tests/Rulesets/Sample.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/werx/validation/tests/ValidatorTests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/docs/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="struct.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -787,8 +22,29 @@
   <component name="FavoritesManager">
     <favorites_list name="struct" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -836,6 +92,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struct" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struct" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -848,6 +114,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\struct" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -858,18 +155,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473942764957</updated>
-      <workItem from="1473942773677" duration="14000" />
+      <workItem from="1473942773677" duration="557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14000" />
+    <option name="totallyTimeSpent" value="557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -894,5 +191,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
