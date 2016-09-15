@@ -1,6 +1,0 @@
-._*
-.DS*
-composer.lock
-vendor
-tests/coverage-report
-.idea
